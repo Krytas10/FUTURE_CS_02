@@ -1,12 +1,12 @@
-FUTURE_CS_02
+# FUTURE_CS_02
 Phishing Email Detection and Awareness Report analyzing real-world phishing samples using MXToolbox, Whois, VirusTotal, and URLScan.io. Completed for the Future Interns Cyber Security track.
 
-Task 2: Phishing Email Detection & Awareness System
+# Task 2: Phishing Email Detection & Awareness System
 
 📌 Project Overview
 This repository contains a professional Phishing Email Detection & Awareness Report analyzing three real-world phishing email samples representing distinct attack categories: credential theft, personal data harvesting, and Business Email Compromise (BEC). The primary objective of this project was to identify common phishing indicators, classify email threats by risk level, and produce clear, actionable awareness guidelines to help users recognize and avoid phishing attacks.
 
-🛠️ Tools & Technologies Used
+🛠️ Tools Used
 
 * MXToolbox: Email header, SPF, and DMARC record analysis.
 * Whois: Domain registration and ownership investigation.
@@ -27,4 +27,4 @@ The analysis successfully identified and classified 3 distinct phishing attack s
 * `Phishing_Detection_Awareness_Report.pdf`: The complete, client-ready phishing detection and awareness report.
 * `/screenshots`: Directory containing raw phishing email samples, MXToolbox, Whois, VirusTotal, and URLScan.io evidence captures.
 
-This project was completed as part of the Cyber Security Track (CS) Internship under Future Interns.
+*This project was completed as part of the Cyber Security Track (CS) Internship under Future Interns.*
